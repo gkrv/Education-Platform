@@ -1,0 +1,132 @@
+/* top carousel */
+#img {
+    opacity: 90%;
+    width: 100%;
+    height: 90vh;
+
+}
+
+#hero h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 80px;
+    color: #9e29adcb;
+}
+
+#hero p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.carousel-caption {
+    background-color: rgba(145, 219, 207, 0.5);
+    border-radius: 25px;
+}
+
+.carousel-caption a {
+    text-decoration: none;
+    color: #ea51a0d7;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.carousel-caption a:hover {
+    color: white;
+    text-shadow: 2px 2px #934fdcd7;
+
+}
+
+/* navigation menu */
+#header a:hover {
+    color: white;
+}
+
+header {
+    background-color: #1bc8d8d7;
+}
+
+#navi a {
+    padding: 2px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    backface-visibility: visible;
+
+}
+
+#navi a:hover {
+    color: white;
+    text-shadow: 2px 2px #934fdcd7;
+
+}
+
+/* fAQ form */
+#myModal {
+    background-color: #050a0a8f;
+}
+
+.close {
+    margin-left: 470px;
+}
+
+#forum {
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid #000000;
+    margin-bottom: 5px;
+    padding: 0px 15px 0 15px;
+}
+
+input[type=text],
+input[type=password],
+#prt,
+#questions {
+    width: 97%;
+    padding: 10px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #F5F5F5;
+}
+
+hr {
+    border: 1px solid #e6e6e6;
+    margin-bottom: 5px;
+}
+
+.registerbutton {
+    background-color: #29a329;
+    color: white;
+    padding: 15px 20px;
+    margin: 10px 0px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+
+
+/* count section */
+#num {
+    background-image: url(img/cta-bg.jpg);
+    background-attachment: fixed;
+}
+
+/* collapse button section */
+#colsp {
+    text-decoration: none;
+    color: rgb(57, 144, 221);
+}
+
+#colsp:hover {
+    color: red;
+    text-shadow: 2px 2px #1bc8d8d7;
+}
+
+/* cources img */
+#site {
+    height: 45vh;
+    width: 100%;
+}
+
+/* footer section */
+#logo {
+    width: 150px;
+}
